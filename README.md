@@ -4,11 +4,11 @@
 ---
 
 ### 🚀 About Me  
-🎓 B.Tech in Information Technology (CGPA: 8.57)  
-🤖 Minor in Artificial Intelligence & Machine Learning  
-🛠️ Service Desk Analyst at Wipro  
-🔍 Passionate about Machine Learning, CNNs & intelligent systems  
-🌱 Currently learning advanced AI and real-world problem solving  
+🎓 B.Tech in Information Technology (CGPA: 8.57).
+🤖 Minor in Artificial Intelligence & Machine Learning.  
+🛠️ Service Desk Analyst at Wipro.  
+🔍 Passionate about Machine Learning, CNNs & Intelligent Systems.  
+🌱 Currently learning advanced AI and real-world problem solving.  
 
 ---
 
@@ -31,7 +31,7 @@
 → Developed responsive web pages during internship  
 
 🔹 Problem Solving  
-→ Solved 250+ coding problems on platforms like LeetCode & CodeChef  
+→ Solved 250+ coding problems on platforms like LeetCode & CodeChef.  
 
 ---
 
