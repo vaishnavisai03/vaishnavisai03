@@ -1,45 +1,60 @@
-👋 Hi, I'm Thirukkovela Sai Vaishnavi  
-🎓 B.Tech IT Graduate (CGPA: 8.57)  
+## 👋 Hi, I'm Sai Vaishnavi  
+💻 IT Graduate | 🤖 AI & ML Enthusiast | 🚀 Aspiring AI Engineer  
+
+---
+
+### 🚀 About Me  
+🎓 B.Tech in Information Technology (CGPA: 8.57)  
 🤖 Minor in Artificial Intelligence & Machine Learning  
+🛠️ Service Desk Analyst at Wipro  
+🔍 Passionate about Machine Learning, CNNs & intelligent systems  
+🌱 Currently learning advanced AI and real-world problem solving  
 
-🚀 About Me  
-I am an IT graduate currently working as a Service Desk Analyst at Wipro.  
-I have a strong interest in Artificial Intelligence, Machine Learning, and intelligent systems.  
-I enjoy solving real-world problems and continuously improving my technical and analytical skills.  
+---
 
-🛠️ Skills  
-Java  
-Python (Basic)  
-SQL  
-HTML, CSS, JavaScript  
-MySQL  
-Machine Learning & CNN  
-Technical Troubleshooting  
-Git & GitHub  
+### 🛠️ Tech Stack  
+💻 Java | Python | SQL  
+🌐 HTML | CSS | JavaScript  
+🧠 Machine Learning | CNN (Image Classification)  
+🗄️ MySQL  
+🛠️ Git, GitHub, VS Code, Troubleshooting  
 
-📌 Projects  
+---
+
+### 📌 Projects  
 🔹 Cotton Leaf Disease Detection using CNN  
-→ Built a deep learning model using TensorFlow, Keras & OpenCV  
-→ Achieved ~90% accuracy in disease prediction  
+→ Built using Python, TensorFlow, Keras & OpenCV  
+→ Achieved ~90% accuracy in prediction  
+→ Helps in early detection of plant diseases  
 
 🔹 Web Development Projects  
 → Developed responsive web pages during internship  
 
-🔹 Coding Practice  
-→ Solved 250+ problems on LeetCode & CodeChef  
+🔹 Problem Solving  
+→ Solved 250+ coding problems on platforms like LeetCode & CodeChef  
 
-📈 Currently Learning  
-Advanced Machine Learning  
-Deep Learning  
-Data Structures & Algorithms  
-Real-world AI Applications  
+---
 
-🎯 Goals  
-Pursue Master’s in Artificial Intelligence  
-Build impactful AI-based solutions  
-Become an AI Engineer  
+### 📈 Currently Learning  
+🔬 Advanced Machine Learning  
+🧠 Deep Learning  
+📊 Data Structures & Algorithms  
+🌍 Real-world AI Applications  
 
-📫 Contact  
-GitHub:  
-LinkedIn: https://www.linkedin.com/in/sai-vaishnavi-b8286b280  
-Email: vaishnavisaithirukkovela@gmail.com  
+---
+
+### 🎯 Goals  
+🎓 Pursue Master’s in Artificial Intelligence  
+🚀 Build impactful AI-based solutions  
+💼 Become an AI Engineer  
+
+---
+
+### ✨ Quote  
+Striving to build intelligent solutions that create real-world impact  
+
+---
+
+### 🔗 Connect with Me  
+🐙 GitHub: https://github.com/vaishnavisai03  
+💼 LinkedIn: https://www.linkedin.com/in/sai-vaishnavi-b8286b280  
