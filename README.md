@@ -16,7 +16,7 @@
 💻 Java | Python | SQL  
 🌐 HTML | CSS | JavaScript  
 🧠 Machine Learning | CNN (Image Classification)  
-🗄️ MySQL  
+🗄️ MySQL | DBMS
 🛠️ Git, GitHub, VS Code, Troubleshooting  
 
 ---
