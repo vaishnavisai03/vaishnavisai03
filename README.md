@@ -57,4 +57,4 @@ Striving to build intelligent solutions that create real-world impact
 
 ### 🔗 Connect with Me  
 🐙 GitHub: https://github.com/vaishnavisai03  
-💼 LinkedIn: https://www.linkedin.com/in/sai-vaishnavi-b8286b280  
+💼 LinkedIn: https://www.linkedin.com/in/sai-vaishnavi-b8286b280 
