@@ -1,60 +1,48 @@
-## 👋 Hi, I'm Sai Vaishnavi  
-💻 IT Graduate | 🤖 AI & ML Enthusiast | 🚀 Aspiring AI Engineer  
+# Hi, I'm Sai Vaishnavi 👋
 
----
+🎓 MSc Computing in Artificial Intelligence student at Dublin City University (DCU), Ireland.
 
-### 🚀 About Me  
-🎓 B.Tech in Information Technology (CGPA: 8.57).
-🤖 Minor in Artificial Intelligence & Machine Learning.  
-🛠️ Service Desk Analyst at Wipro.  
-🔍 Passionate about Machine Learning, CNNs & Intelligent Systems.  
-🌱 Currently learning advanced AI and real-world problem solving.  
+💻 IT graduate with experience in the technology sector.
 
----
+🤖 Interested in Artificial Intelligence, Machine Learning, Data Science and intelligent applications.
 
-### 🛠️ Tech Stack  
-💻 Java | Python | SQL  
-🌐 HTML | CSS | JavaScript  
-🧠 Machine Learning | CNN (Image Classification)  
-🗄️ MySQL | DBMS
-🛠️ Git, GitHub, VS Code, Troubleshooting  
+🌱 Currently building my skills through hands-on coding, coursework and personal projects.
 
----
+## 🎯 My Learning Goals
 
-### 📌 Projects  
-🔹 Cotton Leaf Disease Detection using CNN  
-→ Built using Python, TensorFlow, Keras & OpenCV  
-→ Achieved ~90% accuracy in prediction  
-→ Helps in early detection of plant diseases  
+- Strengthen Python programming and problem-solving
+- Develop practical skills in data analysis and visualisation
+- Learn machine learning and model evaluation
+- Explore deep learning and generative AI
+- Build reproducible, well-documented projects
 
-🔹 Web Development Projects  
-→ Developed responsive web pages during internship  
+## 🛠️ Technologies
 
-🔹 Problem Solving  
-→ Solved 250+ coding problems on platforms like LeetCode & CodeChef.  
+**Programming:** Python, Java, SQL  
+**Data & Analytics:** pandas, NumPy, Matplotlib  
+**AI & ML:** Machine Learning, Deep Learning, CNNs  
+**Tools:** Git, GitHub, Jupyter Notebook, VS Code
 
----
+*I am actively developing and expanding my skills in these areas.*
 
-### 📈 Currently Learning  
-🔬 Advanced Machine Learning  
-🧠 Deep Learning  
-📊 Data Structures & Algorithms  
-🌍 Real-world AI Applications  
+## 📂 Featured Projects
 
----
+- **Weather Monitoring** — Python project for working with weather-related data.
+- **Rule Engine with AST** — Python project involving rule evaluation and abstract syntax trees.
+- **Python Projects** — Small programs and exercises for developing programming fundamentals.
+- **Cotton Leaf Disease Detection** — CNN-based image classification project, if the repository is available and the implementation is yours or properly credited.
 
-### 🎯 Goals  
-🎓 Pursue Master’s in Artificial Intelligence  
-🚀 Build impactful AI-based solutions  
-💼 Become an AI Engineer  
+See my repositories for source code, documentation and project updates.
 
----
+## 📚 My Learning Journey
 
-### ✨ Quote  
-Striving to build intelligent solutions that create real-world impact  
+I document my daily learning, coding exercises and project progress in my [AI Learning Journey](https://github.com/vaishnavisai03/ai-learning-journey) repository.
 
----
+## 💼 Career Goal
 
-### 🔗 Connect with Me  
-🐙 GitHub: https://github.com/vaishnavisai03  
-💼 LinkedIn: https://www.linkedin.com/in/sai-vaishnavi-b8286b280 
+To grow into an AI/ML engineering role by combining my academic learning with practical problem-solving and software development.
+
+## 🔗 Connect With Me
+
+- GitHub: [vaishnavisai03](https://github.com/vaishnavisai03)
+- LinkedIn: [Sai Vaishnavi](https://www.linkedin.com/in/sai-vaishnavi-b8286b280/)
